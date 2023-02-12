@@ -3,5 +3,6 @@ public class main {
         System.out.println("Hello World!");
         System.out.println("Hello GoIT");
         System.out.println("My name is Yan");
+        System.out.println("My name is Yan, I`m Java Dev");
     }
 }
